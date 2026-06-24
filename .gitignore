@@ -6,6 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+#NITISH added with chatgpt help but these are already present
+myenv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+
+###############################################
+
+
 # Distribution / packaging
 .Python
 build/

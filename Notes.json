@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "created_by": "Alice",
+        "heading": "Buy groceries",
+        "discription": "Purchase milk, bread, and eggs for the week.",
+        "importance": 3
+    },
+    {
+        "id": 2,
+        "created_by": "Bob",
+        "heading": "Read book",
+        "discription": "Finish the current chapter of the novel.",
+        "importance": 2
+    },
+    {
+        "id": 3,
+        "created_by": "Carol",
+        "heading": "Gym session",
+        "discription": "Complete the daily workout routine.",
+        "importance": 4
+    },
+    {
+        "id": 4,
+        "created_by": "Dave",
+        "heading": "Project update",
+        "discription": "Send the weekly status email to the team.",
+        "importance": 5
+    },
+    {
+        "id": 5,
+        "created_by": "Eve",
+        "heading": "Plan trip",
+        "discription": "Organize itinerary for the weekend getaway.",
+        "importance": 1
+    },
+    {
+        "id": 6,
+        "created_by": "schodinger",
+        "name": "physics cat",
+        "description": "quantum experiment",
+        "priority": 10
+    },
+    {
+        "id": 7,
+        "created_by": "Grace",
+        "name": "return new_note test",
+        "description": "kcschnskclnjs",
+        "priority": 6
+    },
+    {
+        "id": 8,
+        "created_by": "Heidi",
+        "name": "return newnote test",
+        "description": "kcschnskclnjs",
+        "priority": 6
+    },
+    {
+        "id": 9,
+        "created_by": "Nitish",
+        "name": "return",
+        "description": "hii",
+        "priority": 6
+    },
+    {
+        "id": 10,
+        "created_by": "Nitish",
+        "name": "return",
+        "description": "lol",
+        "priority": 7
+    }
+]
